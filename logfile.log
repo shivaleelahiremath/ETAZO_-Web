@@ -1,0 +1,107 @@
+2014-07-11 17:57:50,935 - Student_Link - INFO - Student Link administration document released with Displays Score, Display Missed Items and Allow Incomplete selection
+2014-07-11 17:57:52,922 - Student_Link - INFO - -------------------------------------------------
+2014-07-11 17:57:52,922 - Student_Link - INFO -    Student_Link Testing using safari browser
+2014-07-11 17:57:52,922 - Student_Link - INFO - -------------------------------------------------
+2014-07-11 17:57:57,886 - Student_Link - INFO - Student Link administration for Student ID : 81062
+2014-07-11 17:58:06,200 - Student_Link - INFO - Student Link administration for Student ID : 81038
+2014-07-11 17:58:11,262 - Student_Link - INFO - Login Successful : Passed
+2014-07-11 17:58:51,289 - Student_Link - INFO - Administration not completed successfully for Score: 67: Failed
+2014-07-11 17:58:54,305 - Student_Link - INFO - Student Link administration for Student ID : 81075
+2014-07-11 17:58:59,361 - Student_Link - INFO - Login Successful : Passed
+2014-07-11 17:59:29,132 - Student_Link - INFO - Administration not completed successfully for Score: 37: Failed
+2014-07-11 17:59:31,860 - Student_Link - INFO - Student Link administration for Student ID : 80940
+2014-07-11 17:59:36,914 - Student_Link - INFO - Login Successful : Passed
+2014-07-11 18:00:39,092 - Student_Link - INFO - Administration not completed successfully for Score: 30: Failed
+2014-07-11 18:00:41,829 - Student_Link - INFO - Student Link administration for Student ID : 80969
+2014-07-11 18:00:46,887 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-11 18:00:51,892 - Student_Link - INFO - Student Link administration for Student ID : 81021
+2014-07-11 18:00:56,951 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-11 18:32:39,844 - Student_Link - INFO - Student Link administration for Student ID : 80993
+2014-07-11 18:32:44,910 - Student_Link - INFO - Login Successful : Passed
+2014-07-15 18:43:26,086 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-15 18:43:36,376 - Student_Link - INFO - Student Link administration for Student ID : 81038
+2014-07-15 18:43:41,434 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-15 18:43:46,237 - Student_Link - INFO - Student Link administration for Student ID : 81075
+2014-07-15 18:43:51,303 - Student_Link - INFO - Login not Successful : Failed
+2014-07-15 18:44:02,495 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-15 18:44:49,909 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-15 18:44:54,962 - Student_Link - INFO - Login Successful : Passed
+2014-07-16 13:21:42,523 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-16 13:21:47,894 - Student_Link - INFO - Login Successful : Passed
+2014-07-16 13:23:36,621 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-16 13:23:41,673 - Student_Link - INFO - Login Successful : Passed
+2014-07-16 13:26:29,606 - Student_Link - INFO - Student Link administration document released with Displays Score, Display Missed Items and Allow Incomplete selection
+2014-07-16 13:26:31,150 - Student_Link - INFO - -------------------------------------------------
+2014-07-16 13:26:31,150 - Student_Link - INFO -    Student_Link Testing using safari browser
+2014-07-16 13:26:31,150 - Student_Link - INFO - -------------------------------------------------
+2014-07-16 13:26:36,431 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-16 13:26:41,490 - Student_Link - INFO - Login Successful : Passed
+2014-07-16 13:27:39,314 - Student_Link - INFO - Student Link administration document released with Displays Score, Display Missed Items and Allow Incomplete selection
+2014-07-16 13:27:40,905 - Student_Link - INFO - -------------------------------------------------
+2014-07-16 13:27:40,905 - Student_Link - INFO -    Student_Link Testing using safari browser
+2014-07-16 13:27:40,906 - Student_Link - INFO - -------------------------------------------------
+2014-07-16 13:27:45,205 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-16 13:27:50,267 - Student_Link - INFO - Login Successful : Passed
+2014-07-21 12:45:53,691 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-21 12:46:12,578 - Student_Link - INFO - Login Successful : Passed
+2014-07-21 12:46:12,581 - Student_Link - INFO - Login not Successful : Failed
+2014-07-21 12:50:13,012 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-21 12:50:35,323 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-21 12:50:42,430 - Student_Link - INFO - Student Link administration for Student ID : 81038
+2014-07-21 12:50:51,426 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-21 12:50:58,551 - Student_Link - INFO - Student Link administration for Student ID : 81075
+2014-07-21 12:51:07,466 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-21 12:51:15,039 - Student_Link - INFO - Student Link administration for Student ID : 80940
+2014-07-21 12:51:24,140 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-21 12:51:30,737 - Student_Link - INFO - Student Link administration for Student ID : 80969
+2014-07-21 12:51:39,491 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-21 12:51:46,699 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-21 12:51:55,754 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-21 12:59:48,290 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-21 13:00:04,264 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-21 13:00:11,066 - Student_Link - INFO - Student Link administration for Student ID : 81038
+2014-07-21 13:00:21,504 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-21 13:02:44,935 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-21 13:03:12,928 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-21 14:57:28,804 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2014-07-21 14:57:40,213 - Student_Link - INFO - Student already administered for this assessment : Passed
+2014-07-21 14:57:40,213 - Student_Link - INFO - Login not Successful : Failed
+2014-11-19 17:37:39,457 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2015-02-20 12:08:34,456 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2015-02-20 12:08:44,781 - Student_Link - INFO - Login Successful : Passed
+2015-02-20 12:08:44,782 - Student_Link - INFO - Login not Successful : Failed
+2015-02-20 12:10:27,891 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2015-02-20 12:10:35,188 - Student_Link - INFO - Login Successful : Passed
+2015-02-20 12:10:35,188 - Student_Link - INFO - Login not Successful : Failed
+2015-02-20 12:11:12,095 - Student_Link - INFO - Administration completed successfully for Score: 100: Passed
+2015-02-20 12:16:15,199 - Student_Link - INFO - Student Link administration for Student ID : 81038
+2015-02-20 12:16:22,794 - Student_Link - INFO - Login Successful : Passed
+2015-02-20 12:16:22,794 - Student_Link - INFO - Login not Successful : Failed
+2015-02-20 12:17:13,414 - Student_Link - INFO - Student Link administration for Student ID : 81038
+2015-02-20 12:17:20,846 - Student_Link - INFO - Login Successful : Passed
+2015-02-20 12:17:20,846 - Student_Link - INFO - Login not Successful : Failed
+2015-02-20 12:18:52,460 - Student_Link - INFO - Student Link administration for Student ID : 81069
+2015-02-20 12:18:59,603 - Student_Link - INFO - Login Successful : Passed
+2015-02-20 12:18:59,603 - Student_Link - INFO - Login not Successful : Failed
+2015-02-20 12:19:34,523 - Student_Link - INFO - Administration completed successfully for Score: 100: Passed
+2015-02-20 12:19:39,963 - Student_Link - INFO - Student Link administration for Student ID : 80925
+2015-02-20 12:19:47,550 - Student_Link - INFO - Login Successful : Passed
+2015-02-20 12:19:47,551 - Student_Link - INFO - Login not Successful : Failed
+2015-02-20 12:20:21,160 - Student_Link - INFO - Administration completed successfully for Score: 80: Passed
+2015-02-20 12:20:27,382 - Student_Link - INFO - Student Link administration for Student ID : 81075
+2015-02-20 12:20:34,936 - Student_Link - INFO - Login Successful : Passed
+2015-02-20 12:20:34,936 - Student_Link - INFO - Login not Successful : Failed
+2015-02-20 12:21:03,961 - Student_Link - INFO - Administration completed successfully for Score: 50: Passed
+2015-02-20 12:21:08,934 - Student_Link - INFO - Student Link administration for Student ID : 80940
+2015-02-20 12:21:16,814 - Student_Link - INFO - Login Successful : Passed
+2015-02-20 12:21:16,815 - Student_Link - INFO - Login not Successful : Failed
+2015-02-20 12:21:42,358 - Student_Link - INFO - Administration not completed successfully for Score: 47: Failed
+2015-02-20 12:21:47,250 - Student_Link - INFO - Student Link administration for Student ID : 80969
+2015-02-20 12:21:55,107 - Student_Link - INFO - Login Successful : Passed
+2015-02-20 12:21:55,107 - Student_Link - INFO - Login not Successful : Failed
+2015-02-20 12:22:23,475 - Student_Link - INFO - Administration completed successfully for Score: 33: Passed
+2015-02-20 12:22:28,519 - Student_Link - INFO - Student Link administration for Student ID : 90614
+2015-02-20 12:22:37,528 - Student_Link - INFO - Student already administered for this assessment : Passed
+2015-02-20 12:25:58,674 - Student_Link - INFO - Student Link administration for Student ID : 81318
+2015-02-20 12:26:05,979 - Student_Link - INFO - Login Successful : Passed
+2015-02-20 12:26:05,979 - Student_Link - INFO - Login not Successful : Failed

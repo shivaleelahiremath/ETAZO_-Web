@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Etazo_Web" parallel="none">
+
+<test name ="UI functionality Testing - ChromeBrowserTest">
+ <parameter name="browser" value="chrome" />
+	<classes>
+		<class name="Script.UIFunctionalityTesting"></class>
+	</classes>
+</test>
+
+<test name ="UI functionality Testing - FirefoxBrowserTest">
+ <parameter name="browser" value="firefox" />
+	<classes>
+		<class name="Script.UIFunctionalityTesting"></class>
+	</classes>
+</test>
+
+<test name ="UI functionality Testing - SafariBrowserTest">
+ <parameter name="browser" value="safari" />
+	<classes>
+		<class name="Script.UIFunctionalityTesting"></class>
+	</classes>
+</test>
+  
+<test name ="Student_Link functionality And Administration - ChromeBrowserTest">
+ <parameter name="browser" value="chrome" />
+	<classes>
+		<class name="Script.Student_Link"></class>
+	</classes>
+</test>
+
+<test name ="Student_Link functionality And Administration - FirefoxBrowserTest">
+ <parameter name="browser" value="firefox" />
+	<classes>
+		<class name="Script.Student_Link"></class>
+	</classes>
+</test>
+
+<test name ="Student_Link functionality And Administration - SafariBrowserTest">
+ <parameter name="browser" value="safari" />
+	<classes>
+		<class name="Script.Student_Link"></class>
+	</classes>
+</test>
+
+ 
+<test name ="Uncheck functionality Testing - ChromeBrowserTest">
+ <parameter name="browser" value="chrome" />
+	<classes>
+		<class name="Script.UnCheckFunctionalityTest"></class>
+	</classes>
+</test>
+
+<test name ="Uncheck functionality Testing - FirefoxBrowserTest">
+ <parameter name="browser" value="firefox" />
+	<classes>
+		<class name="Script.UnCheckFunctionalityTest"></class>
+	</classes>
+</test>
+
+<test name ="Uncheck functionality Testing - SafariBrowserTest">
+ <parameter name="browser" value="safari" />
+	<classes>
+		<class name="Script.UnCheckFunctionalityTest"></class>
+	</classes>
+</test>
+  
+<test name ="Monitor Link functionality And Administration - ChromeBrowserTest">
+ <parameter name="browser" value="chrome" />
+	<classes>
+		<class name="Script.Monitor_Link"></class>
+	</classes>
+</test>
+
+<test name ="Monitor Link functionality And Administration - FirefoxBrowserTest">
+ <parameter name="browser" value="firefox" />
+	<classes>
+		<class name="Script.Monitor_Link"></class>
+	</classes>
+</test>
+
+<test name ="Monitor Link functionality And Administration - SafariBrowserTest">
+ <parameter name="browser" value="safari" />
+	<classes>
+		<class name="Script.Monitor_Link"></class>
+	</classes>
+</test>
+
+<test name ="Writing Link functionality And Administration - ChromeBrowserTest">
+ <parameter name="browser" value="chrome" />
+	<classes>
+		<class name="Script.Writing_Link"></class>
+	</classes>
+</test>
+
+<test name ="Writing Link functionality And Administration - FirefoxBrowserTest">
+ <parameter name="browser" value="firefox" />
+	<classes>
+		<class name="Script.Writing_Link"></class>
+	</classes>
+</test>
+
+<test name ="Writing Link functionality And Administration - SafariBrowserTest">
+ <parameter name="browser" value="safari" />
+	<classes>
+		<class name="Script.Writing_Link"></class>
+	</classes>
+</test>
+</suite>
+

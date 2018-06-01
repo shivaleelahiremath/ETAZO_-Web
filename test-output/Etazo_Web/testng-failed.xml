@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Etazo_Web]" parallel="none">
+  <parameter name="browser" value="safari"/>
+  <test name="Student_Link functionality And Administration - SafariBrowserTest(failed)" parallel="none">
+    <parameter name="browser" value="safari"/>
+    <classes>
+      <class name="Script.Student_Link">
+        <methods>
+          <include name="getExcelData"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Script.Student_Link -->
+    </classes>
+  </test> <!-- Student_Link functionality And Administration - SafariBrowserTest(failed) -->
+</suite> <!-- Failed suite [Etazo_Web] -->
